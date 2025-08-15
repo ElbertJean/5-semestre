@@ -1,0 +1,9 @@
+Focado em projeto/gestão cascata
+
+Gestão é:
+- Planejar
+- Executar
+- Controlar
+
+Processo: Conjunto de atividades
+Projeto: Feito de forma progressiva. Ex: Projeto de um carro (1 projeto para uma linha de produção)

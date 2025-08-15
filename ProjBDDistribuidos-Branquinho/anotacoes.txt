@@ -1,0 +1,21 @@
+Disciplina: Projetos de Banco de Dados Distribuídos
+
+email: diogobranquinho+curriculos@gmail.com
+
+A = atomicidade
+C = consistência
+I = isolamento
+D = durabilidade
+
+SGBDD
+
+Motivacao para SBDD
+-> Evolução dos meios de comunicacao
+-> Custo Hardware
+-> Vantagens sobre sistemas centralizados
+-> SGBDS Ditribuidos
+
+Redundante -> Voltado ao Hardware 
+(Ex: Carro furou pneu, redundante pq tem step para usar)
+(Ex: Tenho 3 servidores, se o primeiro morrer, o segundo assume e assim sucessivamente).
+
